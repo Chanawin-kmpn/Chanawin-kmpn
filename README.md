@@ -1,4 +1,3 @@
-# github-profile
 <h1 align="center">Hi 👋, I'm Chanawin Kamolpanus | Frontend Developer</h1>
 <h3 align="center">I’m passionate about crafting high-quality websites with custom designs and pixel-perfect precision.</h3>
 
