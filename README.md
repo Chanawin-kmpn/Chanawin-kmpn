@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chanawin.k@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oTkpTl3Aeedwy9oDiDULfgOMT5cWh0nP/view](https://drive.google.com/file/d/1oTkpTl3Aeedwy9oDiDULfgOMT5cWh0nP/view)
+- 📄 Know about my experiences [Chanawin Resume](https://drive.google.com/file/d/1oTkpTl3Aeedwy9oDiDULfgOMT5cWh0nP/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
