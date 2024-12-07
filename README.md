@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js 15**
 
-- 👨‍💻 All of my projects are available at [https://chanawin-portfolio.vercel.app/](https://chanawin-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Chanawin Portfolio Website](https://chanawin-portfolio.vercel.app/)
 
 - 💬 Ask me about **CSS | TailwindCSS**
 
